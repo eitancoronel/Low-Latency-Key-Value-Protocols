@@ -1,6 +1,7 @@
 ### README.md
 
 ---
+If you have any questions about the project feel free to contact me:https://www.linkedin.com/in/eitan-coronel/
 
 # Low-Latency Key-Value Store
 
