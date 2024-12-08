@@ -1,0 +1,15 @@
+SET key1 value1
+GET key1
+SET key2 AnotherValue
+GET key2
+GET nonExistentKey
+SET key3 1234567890
+GET key3
+SET longKeyName1234567890 ThisIsATestValueForALongKey
+GET longKeyName1234567890
+SET keyWithSpecialChars !@#$%^&*()_+
+GET keyWithSpecialChars
+
+
+
+
