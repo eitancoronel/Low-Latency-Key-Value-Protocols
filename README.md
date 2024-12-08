@@ -19,7 +19,7 @@ We developed a client-server application using C and the Verbs API, capable of:
 2. Automatically selecting the appropriate protocol based on payload size:
    - **Eager** for small payloads (low overhead).
    - **Rendezvous** for large payloads (zero-copy efficiency).
-3. Supporting multiple concurrent clients interacting with a single server.
+3. Supporting multiple concurrent clients interacting with a single server (using the locks mechanism).
 
 ---
 
