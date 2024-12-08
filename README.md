@@ -33,7 +33,7 @@ These findings demonstrate the importance of protocol selection in optimizing pe
 ---
 
 ## How to Run
-1. Compile the project using the provided `Makefile`.
+1. Compile the project using the provided `comp.sh` file.
 2. Run the server:
    ```bash
    ./key_value_store server
